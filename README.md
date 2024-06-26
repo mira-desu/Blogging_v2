@@ -1,2 +1,1 @@
-# Projects
-Here, my first projects on c, c++ and first website.
+# C++ project with developer documentation
